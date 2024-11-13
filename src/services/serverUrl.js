@@ -1,0 +1,1 @@
+export const serverUrl = "https://project-fair-177s.onrender.com"
